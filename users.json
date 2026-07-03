@@ -2,5 +2,9 @@
   "userIds": [
     "997799884516233286",
     "1226123258651349069"
-  ]
+  ],
+  "version": "2.0.1",
+  "maintenance": false,
+  "announcement": "Welcome to Revolution X!",
+  "latestBuild": "2.0.1"
 }
